@@ -777,7 +777,7 @@ figure {
     }
 
     #portafolio #menu-portafolio .btn {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .popup .content {
@@ -791,6 +791,12 @@ figure {
 
     .popup .todo {
         margin-bottom: 0;
+    }
+}
+
+@media only screen and (max-width:320px) {
+    #portafolio #menu-portafolio .btn {
+        font-size: 12px;
     }
 }
 
