@@ -552,6 +552,11 @@ figure {
     padding-bottom: 30px;
 }
 
+#blog .single-post a {
+    color: #62c8d0;
+    font-weight: bold;
+}
+
 #blog p {
     margin: 20px 0;
 }
